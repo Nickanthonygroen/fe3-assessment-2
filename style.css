@@ -1,0 +1,35 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #2980b9;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.tick text {
+  fill: #fff;
+}
+
+.domain,
+.tick line {
+  stroke-width: 2;
+  stroke: #fff;
+}
+
+.bar {
+  fill: #fff;
+}
+
+.bar:hover {
+  opacity: 0.6;
+  transition: 0.3s;
+}
