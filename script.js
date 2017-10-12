@@ -154,6 +154,6 @@ function draw(data) {
   }
 
 
-//Give "draw" value of false
+//Give "draw" value of false to prevent from clicking the checkbox twice before stuff happens
   draw(false);
 };
