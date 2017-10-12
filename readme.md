@@ -7,7 +7,7 @@ We had to make an interactive chart using dirty data. The dirt data had to be cl
 
 ## Review
 
-This assignment for me in particular was pretty damn difficult. I found myself struggling for a long time with this and had to ask multiple students and even friends to help me out with this one.
+This assignment for me in particular was pretty damn difficult. I found myself struggling for the most of the time with this and had to ask multiple students and even friends to help me out with this one.
 
 
 # Features
